@@ -1,0 +1,10 @@
+{
+"name": "ExHentai",
+"hostprefix": "exhentai.org,e-hentai.org",
+"displayname": "ExHentai",
+"version": "0.2",
+"authentication": "yes",
+"module": "Host.php",
+"class": "SynoFileHostingExHentai",
+"description": "ExHentai downloading supported."
+}
